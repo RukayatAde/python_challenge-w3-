@@ -6,4 +6,4 @@ And the other task is to create a Python script that analyzes the votes of a sma
 
 
 
-I'm resubmitting because i had problem with the first submitted one.
+I'm resubmitting because i had problem with the first submitted one please.
